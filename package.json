@@ -1,0 +1,15 @@
+{
+  "name": "oldyeller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.3.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
