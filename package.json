@@ -4,7 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^3.3.0"
+    "@slack/bolt": "^3.3.0",
+    "header-case-normalizer": "^1.0.3"
+  },
+  "scripts": {
+    "build": "echo No build"
   },
   "devDependencies": {
     "@netlify/functions": "^0.7.2"

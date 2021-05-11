@@ -542,6 +542,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+header-case-normalizer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/header-case-normalizer/-/header-case-normalizer-1.0.3.tgz#fb1d4c8d0c6169dcab4f7c7e21b186a6a22ac0c1"
+  integrity sha1-+x1MjQxhadyrT3x+IbGGpqIqwME=
+
 http-errors@1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/http-errors/-/http-errors-1.7.2.tgz#4f5029cf13239f31036e5b2e55292bcfbcc85c8f"
